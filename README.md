@@ -27,6 +27,7 @@ I will soon utilise the above domain for a dedicated portfolio webapp.
   <img width="8%" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" />
   <img width="8%" src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/csharp.svg" />
   <img width="8%" src="https://railway.app/brand/logo-dark.svg" />
+  <img width="8%" src="https://upload.vectorlogo.zone/logos/vercel/images/eeca2762-8714-4b58-b625-368a855d149e.svg" />
 </div>
 
 ### Learning to design and create my own assets with
