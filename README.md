@@ -23,11 +23,16 @@ I will soon utilise the above domain for a dedicated portfolio webapp.
   <img width="8%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />
   <img width="8%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" />
   <img width="8%" src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" />
+  <img width="8%" src="https://railway.app/brand/logo-dark.svg" />
+  <img width="8%" src="https://upload.vectorlogo.zone/logos/vercel/images/eeca2762-8714-4b58-b625-368a855d149e.svg" />
+</div>
+
+<div>
   <img width="8%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" />
   <img width="8%" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" />
   <img width="8%" src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/csharp.svg" />
-  <img width="8%" src="https://railway.app/brand/logo-dark.svg" />
-  <img width="8%" src="https://upload.vectorlogo.zone/logos/vercel/images/eeca2762-8714-4b58-b625-368a855d149e.svg" />
+  <img width="8%" src="https://simpleicons.org/icons/microsoftsqlserver.svg" />
+  <img width="8%" src="https://simpleicons.org/icons/azuredevops.svg" />
 </div>
 
 ### Learning to design and create my own assets with
