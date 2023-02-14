@@ -14,7 +14,6 @@ My current WIP project can be found here [dimitrioskaranasios.com](https://dimit
 
 I will soon utilise the above domain for a dedicated portfolio webapp.
 
-
 ## Tech I'm currently working with
 
 <div>
@@ -49,4 +48,10 @@ I will soon utilise the above domain for a dedicated portfolio webapp.
   <img width="5%" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" />
   <img width="5%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" />
 </div>
+
+#### If you would like to support me 😊☕🍵
+
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/dkara)
+
 
