@@ -5,8 +5,6 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dimitrioskaranasios/)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&color=489fea&logo=Twitter&logoColor=white)](https://www.twitter.com/dimsimcard/)
 
-I'm a Analyst Developer at [Muccullough Robertson Lawyers ⚖ ](https://www.mccullough.com.au/) 🖥💻
-
 A developer hoping to make a small difference to the world, big or small. Whether I create a small tool that makes someones day or create a platform that changes the industry.
 I'm building some cool things with some eventually becoming available publicly as open-source 🙂 
 
