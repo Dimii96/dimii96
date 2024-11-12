@@ -8,8 +8,6 @@
 A developer hoping to make a small difference to the world, big or small. Whether I create a small tool that makes someones day or create a platform that changes the industry.
 I'm building some cool things with some eventually becoming available publicly as open-source 🙂 
 
-My current WIP project can be found here [dimitrioskaranasios.com](https://dimitrioskaranasios.com)
-
 I will soon utilise the above domain for a dedicated portfolio webapp.
 
 ## Tech I'm currently working with
