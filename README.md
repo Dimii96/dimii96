@@ -2,6 +2,7 @@
 # Hello there, I'm Dimitri!
 
 
+[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff)](https://www.bluesky.com/dimsimcard/)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dimitrioskaranasios/)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&color=489fea&logo=Twitter&logoColor=white)](https://www.twitter.com/dimsimcard/)
 
